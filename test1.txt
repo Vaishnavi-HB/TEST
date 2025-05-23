@@ -1,2 +1,3 @@
 AMITY UNIVERSITY BENGALURU
 Source code management
+Artificial intelligence and machine learning
